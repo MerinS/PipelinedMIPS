@@ -2,6 +2,7 @@
 Simulator for a pipelined processor that draws upon Tomasulo’s algorithm and scoreboarding
 
 Compiling and running the code:
+
 g++ *.cpp -o MIPSsim
 
 ./MIPSsim sample.txt
