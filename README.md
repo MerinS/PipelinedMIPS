@@ -28,7 +28,7 @@ It executes instructions of 5 types
 
 More details of the project can be found in the project specification pdf in the Document folder.
 
-I see potential bugs in the modules and associated Register Controller for setting the Registers to busy and then making 
+I see potential bugs in the usage of RegisterController class for setting the Registers to busy and then making 
 them free again for avoiding various kinds of hazards. I will work on them when I have a bit more time.
 
 Suggestions for improving the codebase are most welcome.
