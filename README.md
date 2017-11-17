@@ -13,11 +13,17 @@ A sample simulation.txt which is the output when the file fed in is sample.txt i
 More details of the instructions executed can be found in the Instructions specifications pdf in the Documents folder.
 For an overview -
 It executes instructions of 5 types
+
 1)BRANCH
+
 2)NOP
+
 3)BREAK
+
 4)Regular ALU
+
 5)Mem Type ALU
+
 More details of the project can be found in the project specification pdf in the Document folder.
 
 I see potential bugs in the modules and associated Register Controller for setting the Registers to busy and then making 
