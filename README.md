@@ -3,6 +3,7 @@ Simulator for a pipelined processor that draws upon Tomasulo’s algorithm and s
 
 Compiling and running the code:
 g++ *.cpp -o MIPSsim
+
 ./MIPSsim sample.txt
 
 This will generate a file called simulation.txt which will have the cycle by cycle simulation of the processor operations.
