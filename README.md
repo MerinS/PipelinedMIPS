@@ -1,5 +1,7 @@
 # PipelinedMIPS
-Simulator for a pipelined processor that draws upon Tomasulo’s algorithm and scoreboarding
+Simulator for a pipelined processor that draws upon Tomasulo’s algorithm and scoreboarding.
+
+Built for Computer Architecture - CDA 5155: Fall 2017 at the University of Florida
 
 Compiling and running the code:
 
